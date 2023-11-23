@@ -17,3 +17,8 @@ sun(13, 6)
 from calc import add as sun
 from folder.test import add as mult
 
+sun(3, 3)
+mult(3, 3)
+
+
+
